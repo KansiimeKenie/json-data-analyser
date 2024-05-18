@@ -1,0 +1,205 @@
+{
+    "task_history": {
+        "task_1": {
+            "task-data": {
+                "output-data": [{"current_date": "2024-03-10"}],
+                "output-vis": "selectable-table"
+            },
+            "input_task": "current date"
+        },
+        "task_2": {
+            "task-data": {
+                "output-data": [
+                    {
+                        "end_date":"2024-04-19",
+                        "event_base_url":"ifatca2024.org",
+                        "event_city":"",
+                        "event_name": "63rd IFATCA Annual Conference",
+                        "event_organizer": "International Federation of Air Traffic Controllers' Associations (IFATCA)",
+                        "event_url": "https://ifatca2024.org/",
+                        "event_venue": "Virtual",
+                        "location": "Virtual",
+                        "source_url": "https://www.visitsingapore.com/mice/en/event-listing/",
+                        "start_date" : "2024-04-15"
+                    },
+                    {
+                        "event_name": "ISPE Singapore Conference Exhibition 2024",
+                        "event_organizer": "ISPE",
+                        "event_url": "https://ispe.org/singapore-affiliate/events/ispe-singapore-conference-exhibition-2024",
+                        "start_date": "2024-04-09",
+                        "end_date": "2024-04-11",
+                        "event_city": "Singapore",
+                        "event_venue": "Singapore",
+                        "location": "Singapore, Singapore",
+                        "event_base_url": "ispe.org",
+                        "source_url": "https://saceos.org.sg/mice-events-calendar-listing/"
+                    },
+                    {
+                        "event_name": "Food Safety – Meeting the Needs of our Evolving World",
+                        "event_organizer": "",
+                        "event_url": "https://mygfsi.com/events/gfsi-conference/",
+                        "start_date": "2024-04-08",
+                        "end_date": "2024-04-11",
+                        "event_city": "Singapore",
+                        "event_venue": "Sands Expo & Convention Centre",
+                        "location": "Sands Expo & Convention Centre, Singapore",
+                        "event_base_url": "mygfsi.com",
+                        "source_url": "https://saceos.org.sg/mice-events-calendar-listing/"
+                    },
+                    {
+                        "event_name": "FemtechConnect Asia",
+                        "event_organizer": "HTX, GIE Milipol, and Comexposium",
+                        "event_url": "https://www.htx.gov.sg/techx/txs2024",
+                        "start_date": "2024-04-03",
+                        "end_date": "2024-04-05",
+                        "event_city": "Singapore",
+                        "event_venue": "Sands Expo & Convention Centre",
+                        "location": "Sands Expo & Convention Centre, Singapore",
+                        "event_base_url": "htx.gov.sg",
+                        "source_url": "https://saceos.org.sg/mice-events-calendar-listing/"
+                    },
+                    {
+                        "event_name": "Suntec Singapore Convention & Exhibition Centre",
+                        "event_organizer": "Visitsingapore-business-events",
+                        "event_url": "https://www.linkedin.com/company/visitsingapore-business-events/",
+                        "start_date": "2024-04-22",
+                        "end_date": "2024-04-24",
+                        "event_city": "Singapore",
+                        "event_venue": "Singapore",
+                        "location": "Singapore, Singapore",
+                        "event_base_url": "linkedin.com",
+                        "source_url": "https://www.visitsingapore.com/mice/en/event-listing/"
+                    },
+                    {
+                        "event_name": "Pere Asia",
+                        "event_organizer": "",
+                        "event_url": "https://www.prowine-singapore.com/",
+                        "start_date": "2024-04-23",
+                        "end_date": "2024-04-26",
+                        "event_city": "Singapore",
+                        "event_venue": "Singapore",
+                        "location": "Singapore, Singapore",
+                        "event_base_url": "prowine-singapore.com",
+                        "source_url": "https://www.visitsingapore.com/mice/en/event-listing/"
+                    },
+                    {
+                        "event_name": "TFWA Asia Pacific Exhibition & Conference",
+                        "event_organizer": "",
+                        "event_url": "https://www.themeetingsshow-apac.com/",
+                        "start_date": "2024-04-17",
+                        "end_date": "2024-04-18",
+                        "event_city": "Singapore",
+                        "event_venue": "Sands Expo & Convention Centre",
+                        "location": "Sands Expo & Convention Centre, Singapore",
+                        "event_base_url": "themeetingsshow-apac.com",
+                        "source_url": "https://saceos.org.sg/mice-events-calendar-listing/"
+                    }
+                                        
+  
+                ],
+                "output-vis": "selectable-table"
+            },
+            "input_task": "based on the current year given above, list events for the month of april"
+        },
+        "task_3": {
+            "task-data": {
+                "output-data": [
+                    {
+                        "title": "63rd IFATCA Annual Conference",
+                        "event_name": "63rd IFATCA Annual Conference",
+                        "event_organizer": "International Federation of Air Traffic Controllers' Associations (IFATCA)",
+                        "event_url": "https://www.ifatca.org/events-annual-conferences/",
+                        "start_date": "2024-04-15",
+                        "end_date": "2024-04-19",
+                        "event_city": "",  "event_venue": "Virtual",
+                        "location": "Virtual",
+                        "event_base_url": "ifatca2024.org",
+                        "source_url": "https://www.visitsingapore.com/mice/en/event-listing/"
+                    },
+                    {
+                        "title": "ISPE Singapore Conference Exhibition 2024",
+                        "event_name": "ISPE Singapore Conference Exhibition 2024",
+                        "event_organizer": "ISPE",
+                        "event_url": "https://ispe.org/singapore-affiliate/events/ispe-singapore-conference-exhibition-2024",
+                        "start_date": "2024-04-09",
+                        "end_date": "2024-04-11",
+                        "event_city": "Singapore",
+                        "event_venue": "Singapore",
+                        "location": "Singapore, Singapore",
+                        "event_base_url": "ispe.org",
+                        "source_url": "https://saceos.org.sg/mice-events-calendar-listing/"
+                    },
+                    {
+                        "title": "Food Safety – Meeting the Needs of our Evolving World",
+                        "event_name": "Food Safety – Meeting the Needs of our Evolving World",
+                        "event_organizer": "",
+                        "event_url": "https://mygfsi.com/events/gfsi-conference/",
+                        "start_date": "2024-04-08",
+                        "end_date": "2024-04-11",
+                        "event_city": "Singapore",
+                        "event_venue": "Sands Expo & Convention Centre",
+                        "location": "Sands Expo & Convention Centre, Singapore",
+                        "event_base_url": "mygfsi.com",
+                        "source_url": "https://saceos.org.sg/mice-events-calendar-listing/"
+                    },
+                    {
+                        "title": "FemtechConnect Asia",
+                        "event_name": "FemtechConnect Asia",
+                        "event_organizer": "HTX, GIE Milipol, and Comexposium",
+                        "event_url": "https://www.htx.gov.sg/techx/txs2024",
+                        "start_date": "2024-04-03",
+                        "end_date": "2024-04-05",
+                        "event_city": "Singapore",
+                        "event_venue": "Sands Expo & Convention Centre",
+                        "location": "Sands Expo & Convention Centre, Singapore",
+                        "event_base_url": "htx.gov.sg",
+                        "source_url": "https://saceos.org.sg/mice-events-calendar-listing/"
+                    },
+                    {
+                        "title": "Suntec Singapore Convention & Exhibition Centre",
+                        "event_name": "Suntec Singapore Convention & Exhibition Centre",  
+                        "event_organizer": "Visitsingapore-business-events",
+                        "event_url": "[https://www.linkedin.com/company/visitsingapore-business-events/](https://www.linkedin.com/company/visitsingapore-business-events/)",
+                        "start_date": "2024-04-22",
+                        "end_date": "2024-04-24",
+                        "event_city": "Singapore",
+                        "event_venue": "Singapore",  
+                        "location": "Singapore, Singapore",
+                        "event_base_url": "linkedin.com",
+                        "source_url": "[https://www.visitsingapore.com/mice/en/event-listing/](https://www.visitsingapore.com/mice/en/event-listing/)"
+                    },
+                    {
+                        "title": "Pere Asia",
+                        "event_name": "Pere Asia",
+                        "event_organizer": "",
+                        "event_url": "https://www.prowine-singapore.com/",
+                        "start_date": "2024-04-23",
+                        "end_date": "2024-04-26",
+                        "event_city": "Singapore",
+                        "event_venue": "Singapore",  
+                        "location": "Singapore, Singapore",
+                        "event_base_url": "prowine-singapore.com",
+                        "source_url": "https://www.visitsingapore.com/mice/en/event-listing/"
+                    },
+                    {
+                        "title": "TFWA Asia Pacific Exhibition & Conference",
+                        "event_name": "TFWA Asia Pacific Exhibition & Conference",
+                        "event_organizer": "",
+                        "event_url": "https://www.themeetingsshow-apac.com/",
+                        "start_date": "2024-04-17",
+                        "end_date": "2024-04-18",
+                        "event_city": "Singapore",
+                        "event_venue": "Sands Expo & Convention Centre",
+                        "location": "Sands Expo & Convention Centre, Singapore",
+                        "event_base_url": "themeetingsshow-apac.com",
+                        "source_url": "https://saceos.org.sg/mice-events-calendar-listing/"
+                    }
+                    
+                    
+                ],
+                "output-vis": "selectable-table"
+            },
+            "input_task": "convert the data given above into calendar format using `event_name` as title"
+        }
+    }
+}
