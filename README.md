@@ -19,7 +19,7 @@ A JavaScript project for aggregating and analyzing JSON data. This project inclu
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/json-data-analyser.git
+    git clone https://github.com/KansiimeKenie/json-data-analyser.git
     ```
 
 2. **Navigate to the project directory**:
