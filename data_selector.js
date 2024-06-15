@@ -53,7 +53,6 @@ const getUniqueKeys = (data) => {
     )
 }
 
-
 // Function to get all task names
 const getAllTaskNames = (data) => {
     return new Promise((resolve, reject) => {
@@ -67,7 +66,6 @@ const getAllTaskNames = (data) => {
     }
     ) 
 }
-
 const getValuesForKey = (data, key) => {
     return new Promise((resolve, reject) => {
         try {
@@ -88,7 +86,6 @@ const getValuesForKey = (data, key) => {
     }
     )  
 }
-
 const main = async () => {
     try {
         const data = await getTasksFromJson('http://localhost:3000/task_history'); // Fetch data
